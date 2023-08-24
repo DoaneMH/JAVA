@@ -2,7 +2,6 @@
 
 <h1 align = "center">
 <p><b>JAVAwockeez</b></p>
-
 </h1>
 
 # Overview
@@ -11,7 +10,7 @@ Delve into the "JAVAwockeez" team repository. It comprises the cutting-edge Java
 
 ## Members: 
 
-1. Horlador, Doane Marie I
+1. Horlador, Doane Marie I <a href = "https://github.com/DoaneMH">Github</a>
 2. Cabantug, Genine Lynelle C.
 3. Lim, Kristel Mae C.
 4. Nacis, Ram Wisdom S.
